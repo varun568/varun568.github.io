@@ -9,4 +9,9 @@
             background:grey;
             
         }
+#box{
+    background:bisque;
+    margin:30px;
+    padding:20px;
+}
 </style>
