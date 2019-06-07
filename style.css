@@ -9,10 +9,16 @@
             background:grey;
             
         }
+body{
+    background:bisque;
+}
 #box{
     background:white;
     width:500px;
     margin:100px auto;
     padding:50px;
+}
+#image{
+    width:100px;
 }
 </style>
